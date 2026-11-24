@@ -42,7 +42,7 @@
 - **For the models:** averaged to **10-s steps**. This keeps the full size of the ramps (a whole cloud edge passes within about 10 s) while keeping the model small.
 - **Split by whole days, in time order:** train 16–23 Feb, validation 24 Feb, test 25 Feb (broken clouds) and 26 Feb (clear).
 
-## 3. Six ideas you need
+## 3. Six ideas
 
 **1. Persistence.** The simplest forecast: "in 10–60 s, irradiance will be the same as now". Every model must beat it to be useful. At very short horizons it is hard to beat.
 
