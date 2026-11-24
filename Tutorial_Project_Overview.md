@@ -1,11 +1,9 @@
-# Tutorial: how this project developed, and where it goes next
-
-This tutorial walks through the project from the beginning: the data, the main ideas, each experiment (what we asked, what we did, what we found, what we decided), what the literature says, and the plan for the paper. It is written so that someone new to the project — or to ramps — can follow it.
+# How this project is developing
 
 **Contents**
 1. The big picture
 2. The data
-3. Six ideas you need
+3. Six ideas
 4. The journey, step by step (data exploration → E1 → E1b → E2 → ramp-risk test)
 5. What the literature says
 6. The turning point: our main contribution
@@ -44,7 +42,7 @@ This tutorial walks through the project from the beginning: the data, the main i
 - **For the models:** averaged to **10-s steps**. This keeps the full size of the ramps (a whole cloud edge passes within about 10 s) while keeping the model small.
 - **Split by whole days, in time order:** train 16–23 Feb, validation 24 Feb, test 25 Feb (broken clouds) and 26 Feb (clear).
 
-## 3. Six ideas you need
+## 3. Six ideas
 
 **1. Persistence.** The simplest forecast: "in 10–60 s, irradiance will be the same as now". Every model must beat it to be useful. At very short horizons it is hard to beat.
 
