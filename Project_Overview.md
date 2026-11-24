@@ -1,6 +1,4 @@
-# Tutorial: how this project developed, and where it goes next
-
-This tutorial walks through the project from the beginning: the data, the main ideas, each experiment (what we asked, what we did, what we found, what we decided), what the literature says, and the plan for the paper. It is written so that someone new to the project — or to ramps — can follow it.
+# How this project is developing
 
 **Contents**
 1. The big picture
