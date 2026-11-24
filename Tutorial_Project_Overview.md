@@ -146,7 +146,7 @@ Figure 1 below shows the E2 results and the drops-vs-rises comparison.
 
 The illustration below (made-up numbers) shows the three kinds of forecast: (a) MSE spreads the drop out; (b) the current ramp term produces medium jumps everywhere, some landing near the real drop by luck; (c) the goal: one jump of the right size, even if slightly early.
 
-![Figure 2. Illustration with made-up numbers: one real drop and three kinds of forecast (MSE smoothing, zigzag, one clear jump).](tutorial_fig2_zigzag_illustration.png)
+![Figure 2. Illustration with made-up numbers: one real drop and three kinds of forecast (MSE smoothing, zigzag, one clear jump).](Fig/fig2_zigzag_illustration.png)
 
 *Figure 2. Illustration with made-up numbers: one real drop and three kinds of forecast (MSE smoothing, zigzag, one clear jump).*
 
