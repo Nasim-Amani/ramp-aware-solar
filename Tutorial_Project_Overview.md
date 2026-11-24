@@ -108,7 +108,7 @@
 
 Figure 1 below shows the E2 results and the drops-vs-rises comparison.
 
-![Figure 1. Our E2 results: (a) more ramps caught costs accuracy; (b) the models mostly catch the sun returning, not the cloud arriving.](tutorial_fig1_E2_results.png)
+![Figure 1. Our E2 results: (a) more ramps caught costs accuracy; (b) the models mostly catch the sun returning, not the cloud arriving.](Fig/fig1_E2_results.png)
 
 *Figure 1. Our E2 results: (a) more ramps caught costs accuracy; (b) the models mostly catch the sun returning, not the cloud arriving.*
 
